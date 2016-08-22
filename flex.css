@@ -1,0 +1,12 @@
+.display-flex {
+  display: flex;
+  display: -ms-flexbox;
+  display: -webit-box;
+  display: -moz-box;
+}
+
+.flex-direction-row {
+  flex-direction: row;
+  -ms-flex-direction: row;
+  
+}
